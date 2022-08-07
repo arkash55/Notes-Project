@@ -3,8 +3,8 @@ A full stack Notes application. Frontend is written in swift and the backend is 
 
 
 The Frontend...
-
-- UI designed using a combinatation of programatic code and storyboard.
+- MVC design pattern.
+- UI designed using a combination of programatic code and storyboard.
 - Used protocols and delegates to pass information between view controllers.
 - Vigorous error handling system
 - TypeAliases, Structs and Enums used to keep code more maintainable and DRY.
