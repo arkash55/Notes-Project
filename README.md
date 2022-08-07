@@ -4,19 +4,19 @@ A full stack Notes application. Frontend is written in swift and the backend is 
 
 The Frontend...
 
-UI designed using a combinatation of programatic code and storyboard.
-Used protocols and delegates to pass information between view controllers.
-Vigorous error handling system
-TypeAliases, Structs and Enums used to keep code more maintainable and DRY.
-Used Cocoapods to access different utilities.
+- UI designed using a combinatation of programatic code and storyboard.
+- Used protocols and delegates to pass information between view controllers.
+- Vigorous error handling system
+- TypeAliases, Structs and Enums used to keep code more maintainable and DRY.
+- Used Cocoapods to access different utilities.
 
 
 The Backend...
 
-REST API created with express js
-Authentication implmented using json-web-tokens. ("npm jsonwebtoken")
-Implemented hashing and salting algorithms to store sensitive data with the aid of an cryptography package. ("npm crypto-js")
-Used a mysql database with raw sql queries to store and manage relation data.
+- REST API created with express js
+- Authentication implmented using json-web-tokens. ("npm jsonwebtoken")
+- Implemented hashing and salting algorithms to store sensitive data with the aid of an cryptography package. ("npm crypto-js")
+- Used a mysql database with raw sql queries to store and manage relation data.
 
 
 Things to be added in the future...
