@@ -1,0 +1,13 @@
+"filename", "language", "JSON", "JavaScript", "comment", "blank", "total"
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/package-lock.json", "JSON", 1518, 0, 0, 1, 1519
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/package.json", "JSON", 22, 0, 0, 1, 23
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/Middleware/jwt-authentication.js", "JavaScript", 0, 14, 1, 8, 23
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/controllers/note_controller.js", "JavaScript", 0, 16, 0, 4, 20
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/controllers/user_controller.js", "JavaScript", 0, 84, 7, 29, 120
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/routes/note_routes.js", "JavaScript", 0, 6, 0, 10, 16
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/routes/user_routes.js", "JavaScript", 0, 12, 1, 5, 18
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/server.js", "JavaScript", 0, 15, 3, 10, 28
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/services/jwt.js", "JavaScript", 0, 28, 0, 13, 41
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/services/security.js", "JavaScript", 0, 70, 3, 28, 101
+"/Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/sql-db/database.js", "JavaScript", 0, 16, 2, 4, 22
+"Total", "-", 1540, 261, 17, 113, 1931

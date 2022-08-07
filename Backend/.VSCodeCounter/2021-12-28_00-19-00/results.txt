@@ -1,0 +1,42 @@
+Date : 2021-12-28 00:19:00
+Directory : /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI
+Total : 11 files,  1801 codes, 17 comments, 113 blanks, all 1931 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |      1,540 |          0 |          2 |      1,542 |
+| JavaScript |          9 |        261 |         17 |        111 |        389 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                |         11 |      1,801 |         17 |        113 |      1,931 |
+| server                                                                                           |          9 |        261 |         17 |        111 |        389 |
+| server/Middleware                                                                                |          1 |         14 |          1 |          8 |         23 |
+| server/controllers                                                                               |          2 |        100 |          7 |         33 |        140 |
+| server/routes                                                                                    |          2 |         18 |          1 |         15 |         34 |
+| server/services                                                                                  |          2 |         98 |          3 |         41 |        142 |
+| server/sql-db                                                                                    |          1 |         16 |          2 |          4 |         22 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                         | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/package-lock.json                       | JSON       |      1,518 |          0 |          1 |      1,519 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/package.json                            | JSON       |         22 |          0 |          1 |         23 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/Middleware/jwt-authentication.js | JavaScript |         14 |          1 |          8 |         23 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/controllers/note_controller.js   | JavaScript |         16 |          0 |          4 |         20 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/controllers/user_controller.js   | JavaScript |         84 |          7 |         29 |        120 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/routes/note_routes.js            | JavaScript |          6 |          0 |         10 |         16 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/routes/user_routes.js            | JavaScript |         12 |          1 |          5 |         18 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/server.js                        | JavaScript |         15 |          3 |         10 |         28 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/services/jwt.js                  | JavaScript |         28 |          0 |         13 |         41 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/services/security.js             | JavaScript |         70 |          3 |         28 |        101 |
+| /Users/arkashvijayakumar/Desktop/NodeJsPractice/notesAPI/server/sql-db/database.js               | JavaScript |         16 |          2 |          4 |         22 |
+| Total                                                                                            |            |      1,801 |         17 |        113 |      1,931 |
++--------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
