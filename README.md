@@ -16,7 +16,7 @@ The Backend...
 - REST API created with express js
 - Authentication implmented using json-web-tokens. ("npm jsonwebtoken")
 - Implemented hashing and salting algorithms to store sensitive data with the aid of an cryptography package. ("npm crypto-js")
-- Used a mysql database with raw sql queries to store and manage relation data.
+- Used a mysql database with raw sql queries to store and manage relational data.
 
 
 Things to be added in the future...
